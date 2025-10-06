@@ -1,4 +1,4 @@
-# 💻 HTML5 Forms
+# HTML5 Forms
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -14,7 +14,7 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.beginner-portfolio-website-forms&left_text=repo%20views)
 
-## ℹ️ A Basic Interactive Webpage using HTML5 Form Elements
+## A Basic Interactive Webpage using HTML5 Form Elements
 
 ![Screenshot of the project](./screenshot.png)
 
@@ -22,7 +22,7 @@ A pure HTML project built to showcase various types of form inputs, validations,
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project contains multiple form examples designed to demonstrate key form elements in HTML5.
 
@@ -30,7 +30,7 @@ Each form is wired to a testing endpoint (`https://httpbin.org/get`) to simulate
 
 ---
 
-## ✨ Features
+## Features
 
 - Email input validation
 - Range sliders
@@ -40,7 +40,7 @@ Each form is wired to a testing endpoint (`https://httpbin.org/get`) to simulate
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to build and structure HTML forms for different use cases
 - Validating input types using attributes like `pattern`, `required`, and `placeholder`
@@ -51,7 +51,7 @@ Each form is wired to a testing endpoint (`https://httpbin.org/get`) to simulate
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - Git
@@ -60,24 +60,24 @@ Each form is wired to a testing endpoint (`https://httpbin.org/get`) to simulate
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
-3. Submit any form and results will open in a new tab via [httpbin.org](https://httpbin.org)
+3. Submit any form and results will open in a new tab via **[httpbin.org](https://httpbin.org)**
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://html5-forms-jiro.netlify.app/)
+Or you can check out the **[live website here](https://html5-forms-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **April 2025**
+Month/Year: **April 2025**
 
-📚 Journey: **1<sup>st</sup>** month of learning _frontend web development_.
+Journey: **1<sup>st</sup>** month of learning _frontend web development_.
